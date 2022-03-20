@@ -21,7 +21,7 @@ echo "Waiting for SPIRE Agent to deploy..."
 kubectl rollout status -n spire daemonset/spire-agent
 
 echo "Registering SPIRE Agent and Workload"
-./register-workload.sh
+"$DIR"/register-workload.sh
 
 echo "Deploying SPIRE Workload pod"
 kubectl apply -f "$DIR"/config/workload.yaml
