@@ -1,6 +1,6 @@
 # SPIFFE CSI Driver Example
 
-This example follows the blog post on the SPIFFE CSI Driver on [orchestrait.io](https://orchestrait.io/blog/).
+This example follows the blog post on the SPIFFE CSI Driver on [pxp928.com](https://pxp928.com/posts/2022/02/spiffe/spire-csi-driver/).
 
 ## Prerequisites
 
