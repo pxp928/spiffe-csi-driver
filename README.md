@@ -1,6 +1,6 @@
 # SPIFFE CSI Driver Example
 
-This example follows the blog post on the SPIFFE CSI Driver on [pxp928.com](https://pxp928.com/posts/2022/02/spiffe/spire-csi-driver/).
+This example follows the blog post on the SPIFFE CSI Driver on [kusari.dev](https://www.kusari.dev/blog/).
 
 ## Prerequisites
 
