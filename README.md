@@ -1,6 +1,6 @@
 # SPIFFE CSI Driver Example
 
-This example follows the blog post on the SPIFFE CSI Driver on [kusari.dev](https://www.kusari.dev/blog/).
+This example follows the blog post on the SPIFFE CSI Driver on [kusari.dev](https://www.kusari.dev/blog/spiffee-csi/).
 
 ## Prerequisites
 
